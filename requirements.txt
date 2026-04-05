@@ -1,0 +1,10 @@
+# UI Framework
+streamlit
+
+# Animations & Assets
+streamlit-lottie
+requests
+
+# Optional: Agar aap future me image processing add karna chahein
+Pillow
+opencv-python-headless
